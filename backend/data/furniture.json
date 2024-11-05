@@ -496,8 +496,8 @@
         "theme": "Black",
         "size": "100 Sq Ft",
         "style": "Modern",
-        "roomType": " Dining Room",
-        "image": "/images/dining/black/modern/100ft"
+        "roomType": "Dining",
+        "image": "/images/dining/black/modern/100ft.png"
     }
 
     ,
@@ -507,8 +507,8 @@
         "theme": "Black",
         "size": "100 Sq Ft",
         "style": "Modern",
-        "roomType": " Dining Room",
-        "image": "/images/dining/black/modern/100ft 2"
+        "roomType": " Dining",
+        "image": "/images/dining/black/modern/100ft 2.png"
     }
 
     ,
@@ -518,8 +518,8 @@
         "theme": "Black",
         "size": "200 Sq Ft",
         "style": "Modern",
-        "roomType": " Dining Room",
-        "image": "/images/dining/black/modern/200ft"
+        "roomType": " Dining",
+        "image": "/images/dining/black/modern/200ft.png"
     }
 
     ,
@@ -529,8 +529,8 @@
         "theme": "Black",
         "size": "200 Sq Ft",
         "style": "Modern",
-        "roomType": " Dining Room",
-        "image": "/images/dining/black/modern/200ft 2"
+        "roomType": " Dining",
+        "image": "/images/dining/black/modern/200ft 2.png"
     }
 
     ,
@@ -540,8 +540,8 @@
         "theme": "Black",
         "size": "300 Sq Ft",
         "style": "Modern",
-        "roomType": " Dining Room",
-        "image": "/images/dining/black/modern/300ft"
+        "roomType": "Dining",
+        "image": "/images/dining/black/modern/300ft.png"
     }
 
     ,
@@ -551,8 +551,8 @@
         "theme": "Black",
         "size": "300 Sq Ft",
         "style": "Modern",
-        "roomType": " Dining Room",
-        "image": "/images/dining/black/modern/300ft 2"
+        "roomType": "Dining",
+        "image": "/images/dining/black/modern/300ft 2.png"
     }
 
     ,
@@ -562,8 +562,8 @@
         "theme": "Black",
         "size": "100 Sq Ft",
         "style": "Rustic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/black/Rustic/100ft"
+        "roomType": "Dining",
+        "image": "/images/dining/black/Rustic/100ft.png"
     }
 
     ,
@@ -573,8 +573,8 @@
         "theme": "Black",
         "size": "100 Sq Ft",
         "style": "Rustic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/black/Rustic/100ft 2"
+        "roomType": "Dining",
+        "image": "/images/dining/black/Rustic/100ft 2.png"
     }
 
     ,
@@ -584,8 +584,8 @@
         "theme": "Black",
         "size": "200 Sq Ft",
         "style": "Rustic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/black/Rustic/200ft"
+        "roomType": "Dining",
+        "image": "/images/dining/black/Rustic/200ft.png"
     }
 
     ,
@@ -595,8 +595,8 @@
         "theme": "Black",
         "size": "200 Sq Ft",
         "style": "Rustic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/black/Rustic/200ft 2"
+        "roomType": "Dining",
+        "image": "/images/dining/black/Rustic/200ft 2.png"
     }
 
     ,
@@ -606,8 +606,8 @@
         "theme": "Black",
         "size": "300 Sq Ft",
         "style": "Rustic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/black/Rustic/300ft"
+        "roomType": "Dining",
+        "image": "/images/dining/black/Rustic/300ft.png"
     }
 
     ,
@@ -617,8 +617,8 @@
         "theme": "Black",
         "size": "300 Sq Ft",
         "style": "Rustic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/black/Rustic/300ft 2"
+        "roomType": "Dining",
+        "image": "/images/dining/black/Rustic/300ft 2.png"
     }
 
 
@@ -633,8 +633,8 @@
         "theme": "Neutral",
         "size": "100 Sq Ft",
         "style": "Classic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/Neutral/Classic/100ft"
+        "roomType": "Dining",
+        "image": "/images/dining/Neutral/Classic/100ft.png"
     }
 
     ,
@@ -644,8 +644,8 @@
         "theme": "Neutral",
         "size": "100 Sq Ft",
         "style": "Classic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/Neutral/Classic/100ft2"
+        "roomType": "Dining",
+        "image": "/images/dining/Neutral/Classic/100ft2.png"
     }
 
     ,
@@ -655,8 +655,8 @@
         "theme": "Neutral",
         "size": "200 Sq Ft",
         "style": "Classic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/Neutral/Classic/200ft"
+        "roomType": "Dining",
+        "image": "/images/dining/Neutral/Classic/200ft.png"
     }
 
     ,
@@ -666,8 +666,8 @@
         "theme": "Neutral",
         "size": "200 Sq Ft",
         "style": "Classic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/Neutral/Classic/200ft2"
+        "roomType": "Dining",
+        "image": "/images/dining/Neutral/Classic/200ft2.png"
     }
 
     ,
@@ -677,8 +677,8 @@
         "theme": "Neutral",
         "size": "300 Sq Ft",
         "style": "Classic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/Neutral/Classic/300ft"
+        "roomType": "Dining",
+        "image": "/images/dining/Neutral/Classic/300ft.png"
     }
 
     ,
@@ -688,8 +688,8 @@
         "theme": "Neutral",
         "size": "300 Sq Ft",
         "style": "Classic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/Neutral/Classic/300ft2"
+        "roomType": "Dining",
+        "image": "/images/dining/Neutral/Classic/300ft2.png"
     }
 
     ,
@@ -699,8 +699,8 @@
         "theme": "Neutral",
         "size": "100 Sq Ft",
         "style": "Modern",
-        "roomType": " Dining Room",
-        "image": "/images/dining/Neutral/Modern/100ft"
+        "roomType": "Dining",
+        "image": "/images/dining/Neutral/Modern/100ft.png"
     }
 
     ,
@@ -710,8 +710,8 @@
         "theme": "Neutral",
         "size": "100 Sq Ft",
         "style": "Modern",
-        "roomType": " Dining Room",
-        "image": "/images/dining/Neutral/Modern/100ft2"
+        "roomType": "Dining",
+        "image": "/images/dining/Neutral/Modern/100ft2.png"
     }
 
     ,
@@ -721,8 +721,8 @@
         "theme": "Neutral",
         "size": "200 Sq Ft",
         "style": "Modern",
-        "roomType": " Dining Room",
-        "image": "/images/dining/Neutral/Modern/200ft"
+        "roomType": "Dining",
+        "image": "/images/dining/Neutral/Modern/200ft.png"
     }
 
     ,
@@ -732,8 +732,8 @@
         "theme": "Neutral",
         "size": "200 Sq Ft",
         "style": "Modern",
-        "roomType": " Dining Room",
-        "image": "/images/dining/Neutral/Modern/200ft2"
+        "roomType": "Dining",
+        "image": "/images/dining/Neutral/Modern/200ft2.png"
     }
 
     ,
@@ -743,8 +743,8 @@
         "theme": "Neutral",
         "size": "200 Sq Ft",
         "style": "Modern",
-        "roomType": " Dining Room",
-        "image": "/images/dining/Neutral/Modern/200ft3"
+        "roomType": "Dining",
+        "image": "/images/dining/Neutral/Modern/200ft3.png"
     }
 
     ,
@@ -754,8 +754,8 @@
         "theme": "Neutral",
         "size": "300 Sq Ft",
         "style": "Modern",
-        "roomType": " Dining Room",
-        "image": "/images/dining/Neutral/Modern/300ft"
+        "roomType": "Dining",
+        "image": "/images/dining/Neutral/Modern/300ft.png"
     }
 
     ,
@@ -765,8 +765,8 @@
         "theme": "Neutral",
         "size": "300 Sq Ft",
         "style": "Modern",
-        "roomType": " Dining Room",
-        "image": "/images/dining/Neutral/Modern/300ft2"
+        "roomType": "Dining",
+        "image": "/images/dining/Neutral/Modern/300ft2.png"
     }
 
     ,
@@ -776,8 +776,8 @@
         "theme": "Neutral",
         "size": "100 Sq Ft",
         "style": "Rustic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/Neutral/rustic/100ft"
+        "roomType": "Dining",
+        "image": "/images/dining/Neutral/rustic/100ft.png"
     }
 
     ,
@@ -787,8 +787,8 @@
         "theme": "Neutral",
         "size": "100 Sq Ft",
         "style": "Rustic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/Neutral/rustic/100ft2"
+        "roomType": "Dining",
+        "image": "/images/dining/Neutral/rustic/100ft2.png"
     }
 
     ,
@@ -798,8 +798,8 @@
         "theme": "Neutral",
         "size": "200 Sq Ft",
         "style": "Rustic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/Neutral/rustic/200ft"
+        "roomType": "Dining ",
+        "image": "/images/dining/Neutral/rustic/200ft.png"
     }
 
     ,
@@ -809,8 +809,8 @@
         "theme": "Neutral",
         "size": "200 Sq Ft",
         "style": "Rustic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/Neutral/rustic/200ft2"
+        "roomType": "Dining",
+        "image": "/images/dining/Neutral/rustic/200ft2.png"
     }
 
     ,
@@ -820,8 +820,8 @@
         "theme": "Neutral",
         "size": "300 Sq Ft",
         "style": "Rustic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/Neutral/rustic/300ft"
+        "roomType": "Dining",
+        "image": "/images/dining/Neutral/rustic/300ft.png"
     }
 
     ,
@@ -831,8 +831,8 @@
         "theme": "Neutral",
         "size": "300 Sq Ft",
         "style": "Rustic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/Neutral/rustic/300ft2"
+        "roomType": "Dining",
+        "image": "/images/dining/Neutral/rustic/300ft2.png"
     }
 
 
@@ -847,8 +847,8 @@
         "theme": "White",
         "size": "100 Sq Ft",
         "style": "Classic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/white/classic/100ft"
+        "roomType": "Dining",
+        "image": "/images/dining/white/classic/100ft.png"
     }
 
     ,
@@ -858,8 +858,8 @@
         "theme": "White",
         "size": "100 Sq Ft",
         "style": "Classic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/white/classic/100ft2"
+        "roomType": "Dining",
+        "image": "/images/dining/white/classic/100ft2.png"
     }
 
     ,
@@ -869,8 +869,8 @@
         "theme": "White",
         "size": "200 Sq Ft",
         "style": "Classic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/white/classic/200ft"
+        "roomType": "Dining",
+        "image": "/images/dining/white/classic/200ft.png"
     }
 
     ,
@@ -880,8 +880,8 @@
         "theme": "White",
         "size": "200 Sq Ft",
         "style": "Classic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/white/classic/200ft2"
+        "roomType": "Dining",
+        "image": "/images/dining/white/classic/200ft2.png"
     }
 
     ,
@@ -891,8 +891,8 @@
         "theme": "White",
         "size": "300 Sq Ft",
         "style": "Classic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/white/classic/300ft"
+        "roomType": "Dining",
+        "image": "/images/dining/white/classic/300ft.png"
     }
 
     ,
@@ -902,8 +902,8 @@
         "theme": "White",
         "size": "300 Sq Ft",
         "style": "Classic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/white/classic/300ft2"
+        "roomType": "Dining",
+        "image": "/images/dining/white/classic/300ft2.png"
     }
 
     ,
@@ -913,8 +913,8 @@
         "theme": "White",
         "size": "100 Sq Ft",
         "style": "Modern",
-        "roomType": " Dining Room",
-        "image": "/images/dining/white/modern/100ft"
+        "roomType": "Dining",
+        "image": "/images/dining/white/modern/100ft.png"
     }
 
     ,
@@ -924,8 +924,8 @@
         "theme": "White",
         "size": "100 Sq Ft",
         "style": "Modern",
-        "roomType": " Dining Room",
-        "image": "/images/dining/white/modern/100ft2"
+        "roomType": "Dining",
+        "image": "/images/dining/white/modern/100ft2.png"
     }
 
     ,
@@ -935,8 +935,8 @@
         "theme": "White",
         "size": "200 Sq Ft",
         "style": "Modern",
-        "roomType": " Dining Room",
-        "image": "/images/dining/white/modern/200ft"
+        "roomType": "Dining",
+        "image": "/images/dining/white/modern/200ft.png"
     }
 
     ,
@@ -946,8 +946,8 @@
         "theme": "White",
         "size": "200 Sq Ft",
         "style": "Modern",
-        "roomType": " Dining Room",
-        "image": "/images/dining/white/modern/200ft2"
+        "roomType": "Dining",
+        "image": "/images/dining/white/modern/200ft2.png"
     }
 
     ,
@@ -957,8 +957,8 @@
         "theme": "White",
         "size": "300 Sq Ft",
         "style": "Modern",
-        "roomType": " Dining Room",
-        "image": "/images/dining/white/modern/300ft"
+        "roomType": "Dining",
+        "image": "/images/dining/white/modern/300ft.png"
     }
 
     ,
@@ -968,8 +968,8 @@
         "theme": "White",
         "size": "300 Sq Ft",
         "style": "Modern",
-        "roomType": " Dining Room",
-        "image": "/images/dining/white/modern/300ft2"
+        "roomType": "Dining",
+        "image": "/images/dining/white/modern/300ft2.png"
     }
      
 
@@ -980,8 +980,8 @@
         "theme": "White",
         "size": "100 Sq Ft",
         "style": "Rustic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/white/rustic/100ft"
+        "roomType": "Dining",
+        "image": "/images/dining/white/rustic/100ft.png"
     }
 
     ,
@@ -991,8 +991,8 @@
         "theme": "White",
         "size": "100 Sq Ft",
         "style": "Rustic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/white/rustic/100ft2"
+        "roomType": "Dining",
+        "image": "/images/dining/white/rustic/100ft2.png"
     }
 
     ,
@@ -1002,8 +1002,8 @@
         "theme": "White",
         "size": "100 Sq Ft",
         "style": "Rustic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/white/rustic/100ft3"
+        "roomType": "Dining",
+        "image": "/images/dining/white/rustic/100ft3.png"
     }
 
     ,
@@ -1013,8 +1013,8 @@
         "theme": "White",
         "size": "200 Sq Ft",
         "style": "Rustic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/white/rustic/200ft"
+        "roomType": "Dining",
+        "image": "/images/dining/white/rustic/200ft.png"
     }
 
     ,
@@ -1024,8 +1024,8 @@
         "theme": "White",
         "size": "200 Sq Ft",
         "style": "Rustic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/white/rustic/200ft2"
+        "roomType": "Dining",
+        "image": "/images/dining/white/rustic/200ft2.png"
     }
 
     ,
@@ -1035,8 +1035,8 @@
         "theme": "White",
         "size": "300 Sq Ft",
         "style": "Rustic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/white/rustic/300ft"
+        "roomType": "Dining",
+        "image": "/images/dining/white/rustic/300ft.png"
     }
 
     ,
@@ -1046,21 +1046,9 @@
         "theme": "White",
         "size": "300 Sq Ft",
         "style": "Rustic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/white/rustic/300ft2"
+        "roomType": " Dining",
+        "image": "/images/dining/white/rustic/300ft2.png"
     }
-
-    ,
-    {
-        "id": 53,
-        "name": "A Rustic White-themed Dining designed to fit within 300 square feet",
-        "theme": "White",
-        "size": "300 Sq Ft",
-        "style": "Rustic",
-        "roomType": " Dining Room",
-        "image": "/images/dining/white/rustic/300ft3"
-    }
-
 
 ]
 
